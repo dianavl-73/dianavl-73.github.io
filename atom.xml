@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://nebula-7293.github.io/assets/moon.ico</icon>
+  <id>https://nebula-7293.github.io/</id>
+  <link href="https://nebula-7293.github.io/" rel="alternate"/>
+  <link href="https://nebula-7293.github.io/atom.xml" rel="self"/>
+  <title>Nebulae</title>
+  <updated>2026-07-06T18:43:26.624Z</updated>
+  <entry>
+    <category term="Practice" scheme="https://nebula-7293.github.io/categories/Practice/"/>
+    <category term="generators" scheme="https://nebula-7293.github.io/tags/generators/"/>
+    <category term="passwords" scheme="https://nebula-7293.github.io/tags/passwords/"/>
+    <category term="code" scheme="https://nebula-7293.github.io/tags/code/"/>
+    <id>https://nebula-7293.github.io/2026/06/29/generators/</id>
+    <link href="https://nebula-7293.github.io/2026/06/29/generators/"/>
+    <published>2026-06-29T20:45:12.792Z</published>
+    <summary>
+      <![CDATA[<h1 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL;DR"></a>TL;DR</h1><p>to be]]>
+    </summary>
+    <title>True-random (TRNG) and Pseudo-random (PRNG) Generators</title>
+    <updated>2026-07-06T18:43:26.624Z</updated>
+  </entry>
+</feed>
